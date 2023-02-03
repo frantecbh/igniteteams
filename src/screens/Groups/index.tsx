@@ -1,12 +1,12 @@
 
 import { StyleSheet, Text, View } from 'react-native';
+import { Container, Title } from './styles';
 
 export function Groups() {
   return (
-    <View style={styles.container}>
-      <Text>Groups!</Text>
-
-    </View>
+    <Container>
+      <Title>Ola Frantec!</Title>
+    </Container>
   );
 }
 
