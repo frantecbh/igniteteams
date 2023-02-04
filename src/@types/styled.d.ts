@@ -1,7 +1,7 @@
 
 
 import 'styled-components';
-import theme from 'src/theme';
+import theme from '../theme';
 
 
 declare module 'styled-components' {
